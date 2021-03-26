@@ -1,1 +1,1 @@
-test
+Returns a thought when requested
